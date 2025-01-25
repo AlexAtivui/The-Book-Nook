@@ -36,7 +36,7 @@ const Footer = () => {
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="Logo" className="max-w-[50px]" />
-              Headless & Brainy Library
+              The Book Nook
             </h1>
             <p className="">
             Discover our online bookshop! Explore a diverse selection of titles, enjoy personalized service, and experience fast delivery. 
@@ -45,11 +45,11 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Agona Swedru, Ghana</p>
+              <p>Accra(Adenta), Ghana</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+233 543777190</p>
+              <p>+233 553377171</p>
             </div>
             {/* Social Handle */}
             {/* <div className="flex items-center gap-3 mt-6">
@@ -88,7 +88,7 @@ const Footer = () => {
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
             @Copyright 2025 All rights reserved 
-            <br /> <b>Developed by Infitech DevLab || Contact us : 0553319320
+            <br /> <b>ATIVUI ALEX || Contact us : +233553377171
                {/* <a href="whatsapp://send?phone=+233553319320"> WhatsApp Us</a> || 
                <a href="mailto:infinitybillionaire386@gmail.com"> &#128231; us</a> */}
                

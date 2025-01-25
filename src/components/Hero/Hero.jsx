@@ -73,7 +73,7 @@ const Hero = ({ handleOrderPopup }) => {
               >
                 {title}
                 <p class="bg-clip-text text-transparent bg-gradient-to-b from-primary text-right text-sm to-secondary">
-                  Headless & Brainy Librarian
+                  The Book Nook
                 </p>{" "}
               </h1>
               <p
